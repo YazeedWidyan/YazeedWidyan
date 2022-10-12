@@ -7,7 +7,8 @@
 ### Hi there 👋 Im Yazeed Widyan :smile:
 
 
-**connect with me**
+## Connect with me
+
 
 <a href="https://www.linkedin.com/in/yazeedwidyan/" target="_blank" rel="noopener noreferrer">
  <img width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkin">
