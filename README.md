@@ -1,3 +1,9 @@
+ <img width="200px" height="100px" src="https://res.cloudinary.com/dxg8ehdcq/image/upload/v1665602412/Yazeed_Widyan_tspdyf.png" alt="cover">
+
+
+
+
+
 ### Hi there 👋 Im Yazeed Widyan :smile:
 
 <!--
