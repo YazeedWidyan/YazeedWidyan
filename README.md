@@ -10,15 +10,15 @@
 **connect with me**
 
 <a href="https://www.linkedin.com/in/yazeedwidyan/" target="_blank" rel="noopener noreferrer">
- <img width="100px" height="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkin">
+ <img width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkin">
  </a>
  
  <a href="https://www.instagram.com/yazeedwidyan/" target="_blank" rel="noopener noreferrer">
- <img width="200px" height="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instgram">
+ <img width="100px" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instgram">
  </a>
  
  <a href="https://www.facebook.com/yazeed.widyan17/" target="_blank" rel="noopener noreferrer">
- <img width="200px" height="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RED">
+ <img width="100px" height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RED">
  </a>
 
 
