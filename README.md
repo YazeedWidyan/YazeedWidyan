@@ -1,4 +1,4 @@
- <img width="100%" height="300px" src="https://res.cloudinary.com/dxg8ehdcq/image/upload/v1665602412/Yazeed_Widyan_tspdyf.png" alt="cover">
+ <img width="100%" height="250px" src="https://res.cloudinary.com/dxg8ehdcq/image/upload/v1665602412/Yazeed_Widyan_tspdyf.png" alt="cover">
 
 
 
