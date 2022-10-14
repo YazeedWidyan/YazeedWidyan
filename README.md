@@ -3,8 +3,10 @@
 
 
 
-
 ### Hi there 👋 Im Yazeed Widyan :smile:
+
+I am a passionate programmer I have my own style, I enjoy learning and new skills , I love challenges and places where there is enthusiasm
+
 
 
 ## Connect with me
